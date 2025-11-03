@@ -1,3 +1,6 @@
 [submodule "assignment-2-DIEPREYECD"]
 	path = assignment-2-DIEPREYECD
 	url = https://github.com/cmput291-F25/assignment-2-DIEPREYECD
+[submodule "project-1-cmput291_dud"]
+	path = project-1-cmput291_dud
+	url = https://github.com/cmput291-F25/project-1-cmput291_dud
